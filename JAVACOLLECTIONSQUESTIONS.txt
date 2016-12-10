@@ -17,12 +17,13 @@ b)set-treeset,hashset
 c)queue-priority queue
 d)map-sortedmap,treemap,hashmap,hashtable.
 
-5.	Why Collection doesn’t extend Cloneable and Serializable interfaces?
-6.	Why Map interface doesn’t extend Collection interface?
+5.	Why Collection doesnâ€™t extend Cloneable and Serializable interfaces?
+
+6.	Why Map interface doesnâ€™t extend Collection interface?
 7.	What is an Iterator?
 8.	What is difference between Enumeration and Iterator interface?
 9.	Why there is not method like Iterator.add() to add elements to the collection?
-10.	Why Iterator don’t have a method to get next element directly without moving the cursor?
+10.	Why Iterator donâ€™t have a method to get next element directly without moving the cursor?
 11.	What is different between Iterator and ListIterator?
 12.	What are different ways to iterate over a list?
 13.	What do you understand by iterator fail-fast property?
@@ -39,7 +40,7 @@ d)map-sortedmap,treemap,hashmap,hashtable.
 24.	What are similarities and difference between ArrayList and Vector?
 25.	What is difference between Array and ArrayList? When will you use Array over ArrayList?
 26.	What is difference between ArrayList and LinkedList?
-27.	Which collection classes provide random access of it’s elements?
+27.	Which collection classes provide random access of itâ€™s elements?
 28.	What is EnumSet?
 29.	Which collection classes are thread-safe?
 30.	What are concurrent Collection Classes?
@@ -55,5 +56,5 @@ d)map-sortedmap,treemap,hashmap,hashtable.
 40.	What is Big-O notation? Give some examples?
 41.	What are best practices related to Java Collections Framework?
 42.	What is Java Priority Queue?
-43.	Why can’t we write code as List<Number> numbers = new ArrayList<Integer>();?
-44.	Why can’t we create generic array? or write code as List<Integer>[] array = new ArrayList<Integer>[10];
+43.	Why canâ€™t we write code as List<Number> numbers = new ArrayList<Integer>();?
+44.	Why canâ€™t we create generic array? or write code as List<Integer>[] array = new ArrayList<Integer>[10];
